@@ -1,0 +1,9 @@
+.tag-btn {
+  cursor: pointer;
+  width: 100px;
+}
+
+.tagging-enabled {
+  opacity: 0.7;
+  cursor: pointer;
+}

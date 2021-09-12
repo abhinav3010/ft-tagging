@@ -1,0 +1,21 @@
+.tagging-rect {
+  position: absolute;
+}
+
+.tag-window {
+  border: 5px solid black;
+  height: 100px;
+  width: 80px;
+}
+.tag-input {
+  width: 80px;
+  color: white;
+  background: black;
+  border: none;
+}
+
+.tag-text {
+  width: 80px;
+  color: white;
+  background: black;
+}

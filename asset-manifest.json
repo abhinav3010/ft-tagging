@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ft-tagging/static/css/main.a2f30c2a.chunk.css",
+    "main.js": "/ft-tagging/static/js/main.970cc0fa.chunk.js",
+    "main.js.map": "/ft-tagging/static/js/main.970cc0fa.chunk.js.map",
+    "runtime-main.js": "/ft-tagging/static/js/runtime-main.d1c0b988.js",
+    "runtime-main.js.map": "/ft-tagging/static/js/runtime-main.d1c0b988.js.map",
+    "static/js/2.9601250c.chunk.js": "/ft-tagging/static/js/2.9601250c.chunk.js",
+    "static/js/2.9601250c.chunk.js.map": "/ft-tagging/static/js/2.9601250c.chunk.js.map",
+    "index.html": "/ft-tagging/index.html",
+    "static/css/main.a2f30c2a.chunk.css.map": "/ft-tagging/static/css/main.a2f30c2a.chunk.css.map",
+    "static/js/2.9601250c.chunk.js.LICENSE.txt": "/ft-tagging/static/js/2.9601250c.chunk.js.LICENSE.txt",
+    "static/media/group-sample.ca299d4d.jpeg": "/ft-tagging/static/media/group-sample.ca299d4d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c0b988.js",
+    "static/js/2.9601250c.chunk.js",
+    "static/css/main.a2f30c2a.chunk.css",
+    "static/js/main.970cc0fa.chunk.js"
+  ]
+}

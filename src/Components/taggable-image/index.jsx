@@ -75,6 +75,7 @@ class TaggableImage extends Component {
         ],
       };
     });
+    window.removeEventListener("click", this.handleTagging);
   };
 
   onMouseMoveOverImg = (event) => {
